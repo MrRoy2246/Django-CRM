@@ -1,7 +1,7 @@
-#install mysql on local machine
-#pip install mysql
-#pip install mysql-connector
-#pip install mysql-connector-python
+# install mysql on local machine
+# pip install mysql
+# pip install mysql-connector
+# pip install mysql-connector-python
 
 
 import mysql.connector
